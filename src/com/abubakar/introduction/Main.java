@@ -88,8 +88,8 @@ class Student {
     }
 
 
-    // Student arpit = new Student(17, "Arpit", 89.7f);
-    // here, this will be replaced with arpit
+    // Student awais = new Student(17, "awais", 89.7f);
+    // here, this will be replaced with awais
     Student (int rno, String name, float marks) {
         this.rno = rno;
         this.name = name;

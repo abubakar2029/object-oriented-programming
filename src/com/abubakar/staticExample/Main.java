@@ -1,10 +1,4 @@
-package staticExample;
-
-package com.abubakar.introduction;
-
-import java.sql.Struct;
-import java.util.ArrayList;
-import java.util.Arrays;
+package com.abubakar.staticExample;
 
 public class Main {
     public static void main(String[] args) {
