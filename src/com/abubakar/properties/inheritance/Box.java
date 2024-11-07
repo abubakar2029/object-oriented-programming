@@ -8,6 +8,7 @@ public class Box {
         l = -1;
         w = -1;
         h = -1;
+        System.out.println("In parent constructor");
     }
 
     // for cube with equal sides

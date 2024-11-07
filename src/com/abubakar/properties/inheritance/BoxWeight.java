@@ -3,12 +3,16 @@ package com.abubakar.properties.inheritance;
 
 import java.util.ArrayList;
 
-public class BoxWeight extends Box{
+public class BoxWeight extends Box {
     double weight;
 
-    public BoxWeight() {
-        this.weight = -1;
+    BoxWeight() {
+        this.weight = -12;
+        System.out.println(weight);
     }
+
+
+
 
     //    @Override
     static void greeting() {
@@ -19,6 +23,7 @@ public class BoxWeight extends Box{
     BoxWeight(BoxWeight other) {
         super(other);
         weight = other.weight;
+        System.out.println(weight);
     }
 
     BoxWeight(double side, double weight) {

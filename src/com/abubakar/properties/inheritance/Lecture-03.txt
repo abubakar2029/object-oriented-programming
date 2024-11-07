@@ -1,0 +1,33 @@
+Inheritance:
+Child class inherits from base class and may have additional properties also.	
+
+What if in child class you wanna use constructor of super class. 
+Here comes a method 'super'. It is used to call superclass methods, and to access the superclass constructor. 
+* super directly points to the above class
+
+What if there are methods or properties that should only be limited in base class?
+Here comes private 'keyword'. It restricts the visibility of a variable or method within a class.
+
+Box box5 = Boxweight();
+When a reference have type of super class, it can only access to super class members. 
+
+Boxweight box6 =Box(); "error"
+because parent don't knows what classes are below, however, below classes knows what classes are above.
+
+Types Of Inheritance
+1- Single Inheritance
+Box->BoxWeight 
+2- Multiple Inheritance
+Java don't support this as 2 parents might have same members. Well here comes our interfaces that just make a copy of template
+3- Multi-level classes
+4- Hierarchical Inheritance
+Similar to Single Inheritance one class will be extracted to different classes
+5- Hybrid Inheritance
+A->B+C, B+C->D
+
+
+IntelliJ Shortcuts
+crtl+D (copy a line)
+crtl+alt+enter (format code)
+
+1:10
