@@ -8,7 +8,7 @@ Here comes a method 'super'. It is used to call superclass methods, and to acces
 What if there are methods or properties that should only be limited in base class?
 Here comes private 'keyword'. It restricts the visibility of a variable or method within a class.
 
-Box box5 = Boxweight();
+Box box5 = Boxweight();+
 When a reference have type of super class, it can only access to super class members. 
 
 Boxweight box6 =Box(); "error"
@@ -26,8 +26,17 @@ Similar to Single Inheritance one class will be extracted to different classes
 A->B+C, B+C->D
 
 
+Private members in base class
+Private members in base class are not accessible in derived class. It can be accessed by a public method in base class.
+
+Polymorphism-> Static polymorphism + Dynamic(Runtime polymorphism) polymorphism
+Constructor overloading: Same name but types, arguments, return types can be different.
+So java determines construvtor overloading on compile time.
+
+
+
 IntelliJ Shortcuts
 crtl+D (copy a line)
 crtl+alt+enter (format code)
 
-1:10
+1:41

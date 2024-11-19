@@ -1,7 +1,7 @@
 package com.abubakar.staticExample;
 
 // this is a demo to show initialisation of static variables
-public class staticBlock {
+public class Static_Block {
     static int a = 4;
     static int b;
 
@@ -13,15 +13,15 @@ public class staticBlock {
     }
 
     public static void main(String[] args) {
-        staticBlock obj = new staticBlock();
-        System.out.println(staticBlock.a + " " + staticBlock.b);
+        Static_Block obj = new Static_Block();
+        System.out.println(Static_Block.a + " " + Static_Block.b);
 
-        staticBlock.b += 3;
+        Static_Block.b += 3;
 
-        System.out.println(staticBlock.a + " " + staticBlock.b);
+        System.out.println(Static_Block.a + " " + Static_Block.b);
 
-        staticBlock obj2 = new staticBlock();
-        System.out.println(staticBlock.a + " " + staticBlock.b);
+        Static_Block obj2 = new Static_Block();
+        System.out.println(Static_Block.a + " " + Static_Block.b);
     }
 
 }

@@ -1,8 +1,6 @@
 package com.abubakar.staticExample;
 
-import java.util.Arrays;
-
-public class InnerClasses {
+public class Inner_Classes {
 
     static class Test {
         String name;

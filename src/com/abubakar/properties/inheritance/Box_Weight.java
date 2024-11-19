@@ -3,10 +3,10 @@ package com.abubakar.properties.inheritance;
 
 import java.util.ArrayList;
 
-public class BoxWeight extends Box {
+public class Box_Weight extends Box {
     double weight;
 
-    BoxWeight() {
+    Box_Weight() {
         this.weight = -12;
         System.out.println(weight);
     }
@@ -20,18 +20,18 @@ public class BoxWeight extends Box {
         ArrayList list = new ArrayList();
     }
 
-    BoxWeight(BoxWeight other) {
+    Box_Weight(Box_Weight other) {
         super(other);
         weight = other.weight;
         System.out.println(weight);
     }
 
-    BoxWeight(double side, double weight) {
+    Box_Weight(double side, double weight) {
         super(side);
         this.weight = weight;
     }
 
-    public BoxWeight(double l, double h, double w, double weight) {
+    public Box_Weight(double l, double h, double w, double weight) {
         // used to initialise values present in parent class
         super(l); // what is this? call the parent class constructor
 //        System.out.println(super.weight);
