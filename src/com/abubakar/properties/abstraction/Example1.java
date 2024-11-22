@@ -19,3 +19,5 @@ public class Example1 {
         obj.run();
     }
 }
+
+//  Can't create onjects of Abstract Class because abstract methods might not have body

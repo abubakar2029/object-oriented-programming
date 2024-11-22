@@ -23,5 +23,6 @@ public class Static_Block {
         Static_Block obj2 = new Static_Block();
         System.out.println(Static_Block.a + " " + Static_Block.b);
     }
-
 }
+//  Why Static methods can't be over-ridden?
+//  Static methods cannot be overridden in Java because they are associated with the class rather than an instance of the class.
