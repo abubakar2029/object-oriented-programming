@@ -1,4 +1,6 @@
 package com.abubakar.interfaces.extendDemo;
 
-public class B {
+public interface B extends A {
+    int AB=22;
+    void methodB();
 }
