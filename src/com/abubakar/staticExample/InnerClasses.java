@@ -1,6 +1,6 @@
 package com.abubakar.staticExample;
 
-public class Inner_Classes {
+public class InnerClasses {
 
     static class Test {
         String name;
