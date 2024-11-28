@@ -1,0 +1,54 @@
+
+Shallow Copy:
+-----------------
+A shallow copy of an object is a bitwise copy of the original object. It copies the values of the original object's fields, but if any fields are references to other objects, the shallow copy will point to the same objects as the original object.
+
+In simple terms, a shallow copy doesn't duplicate the referenced objects, it only copies the references.
+
+Example of Shallow Copy in Java:
+
+```java
+class Bus implements Cloneable {
+    String busId;
+    String driverName;
+    int[] reserveSeats;
+
+    public Bus(String busId, String driverName, int[] reserveSeats) {
+        this.busId = busId;
+        this.driverName = driverName;
+        this.reserveSeats = reserveSeats;
+    }
+
+    @Override
+    protected Object clone() throws CloneNotSupportedException {
+        return super.clone(); // Shallow copy - references are copied, not the actual objects
+    }
+}
+```
+
+Deep Copy:
+-------------
+A deep copy of an object means creating a new object and recursively copying all the fields, including the objects that are referenced by the original object. This ensures that the original and the copied objects do not share any references.
+
+Example of Deep Copy in Java:
+
+```java
+class Bus implements Cloneable {
+    String busId;
+    String driverName;
+    int[] reserveSeats;
+
+    public Bus(String busId, String driverName, int[] reserveSeats) {
+        this.busId = busId;
+        this.driverName = driverName;
+        this.reserveSeats = reserveSeats;
+    }
+
+    @Override
+    protected Object clone() throws CloneNotSupportedException {
+        Bus clone = (Bus) super.clone(); // Shallow copy
+        clone.reserveSeats = this.reserveSeats.clone(); // Deep copy of the array
+        return clone;
+    }
+}
+```

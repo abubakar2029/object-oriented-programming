@@ -1,0 +1,29 @@
+Aspect                 | Exception                                              | Error
+-----------------------|--------------------------------------------------------|------------------------------------------------------
+Definition             | Exceptions represent conditions or issues that occur  | Errors represent serious issues that occur in the system 
+                       | during program execution and can be recovered         | or JVM and are typically unrecoverable.
+                       | or handled by the program.                            |
+-----------------------|--------------------------------------------------------|------------------------------------------------------
+Cause                 | Caused by application-level issues, such as invalid    | Caused by system-level issues, such as memory exhaustion, 
+                       | user input, incorrect logic, or missing resources.    | JVM internal errors.
+-----------------------|--------------------------------------------------------|------------------------------------------------------
+Recoverability         | Exceptions can often be handled using try-catch       | Errors are generally not handled by the program and 
+                       | blocks or can be declared using throws.               | are considered fatal.
+-----------------------|--------------------------------------------------------|------------------------------------------------------
+Hierarchy              | Subclasses of java.lang.Exception.                    | Subclasses of java.lang.Error.
+-----------------------|--------------------------------------------------------|------------------------------------------------------
+Examples               | - IOException                                         | - OutOfMemoryError
+                       | - ArithmeticException                                 | - StackOverflowError
+                       | - NullPointerException                                | - VirtualMachineError
+                       | - SQLException                                        | - NoClassDefFoundError
+-----------------------|--------------------------------------------------------|------------------------------------------------------
+Use Case               | Represents logical errors or situations the           | Represents critical system-level errors that are beyond 
+                       | application should anticipate and recover from.       | the control of the application.
+
+Hierarchy of Throwable class:
+- Throwable
+  - Exception
+    - Checked Exceptions (e.g., IOException, SQLException)
+    - Unchecked Exceptions (e.g., NullPointerException, ArithmeticException)
+  - Error
+    - System Errors (e.g., OutOfMemoryError, StackOverflowError)
