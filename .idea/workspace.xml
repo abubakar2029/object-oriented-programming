@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="90c87d63-65f1-4020-b716-b2c1fc1f7990" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/OOP Learning/OOP.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project - Nursery Managment System/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/object-oriented-programming.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/abubakar/abstractDemo/Daughter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/abubakar/abstractDemo/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/abubakar/abstractDemo/Parent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/abubakar/abstractDemo/Son.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/abubakar/access/A.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/abubakar/access/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/abubakar/access/Object_Demo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/abubakar/access/access-control.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/abubakar/enums/A.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/abubakar/enums/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/abubakar/exceptionHandling/Exception_vs_Error.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/abubakar/exceptionHandling/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/abubakar/exceptionHandling/MyException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/abubakar/generics/CustomArrayList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/abubakar/generics/CustomGenArrayList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/abubakar/generics/Generics.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/abubakar/generics/LambdaExpression.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/abubakar/generics/comparison/HumanHeight.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/abubakar/generics/comparison/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/abubakar/interfaces/Entertainment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/abubakar/interfaces/EntertainmentClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/abubakar/interfaces/Financial.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/abubakar/interfaces/Food.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/abubakar/interfaces/FoodClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/abubakar/interfaces/Human.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/abubakar/interfaces/Human2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/abubakar/interfaces/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/abubakar/interfaces/extendDemo/A.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/abubakar/interfaces/extendDemo/B.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/abubakar/interfaces/extendDemo/ExtendDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/abubakar/introduction/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/abubakar/introduction/Part-01.jfif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/abubakar/introduction/part-02.jfif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/abubakar/objectClonning/Bus.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/abubakar/objectClonning/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/abubakar/objectClonning/Shallow_Deep_Copy.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/abubakar/properties/abstraction/Example1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/abubakar/properties/abstraction/Example2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/abubakar/properties/encapsulation/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/abubakar/properties/inheritance/Box.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/abubakar/properties/inheritance/Box_Weight.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/abubakar/properties/inheritance/Lecture-03.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/abubakar/properties/inheritance/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/abubakar/properties/polymorphism/Runtime_Polymorphism.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/abubakar/properties/polymorphism/Static_Polymorphism.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/abubakar/singleton/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/abubakar/singleton/Singleton.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/abubakar/staticExample/InnerClasses.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/abubakar/staticExample/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/abubakar/staticExample/Static_Block.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/abubakar/staticExample/temp.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;abubakar2029&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/abubakar2029/object-oriented-programming.git&quot;,
+    &quot;accountId&quot;: &quot;654d4c6a-3a78-4f49-ad99-1604f3da7cfe&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2pYtz0ZX0qxvxkCrrl5cZCbhbvF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="90c87d63-65f1-4020-b716-b2c1fc1f7990" name="Changes" comment="" />
+      <created>1732955095730</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1732955095730</updated>
+    </task>
+    <servers />
+  </component>
+</project>

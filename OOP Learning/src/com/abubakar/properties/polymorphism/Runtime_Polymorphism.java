@@ -3,6 +3,13 @@ package com.abubakar.properties.polymorphism;
 public class Runtime_Polymorphism {
 //    In runtime polymorphism, it determines on runtime which method to call
 //    however in static polymorphism it determines on compile time while compiling the code
+
+    public static class Shape {
+        public void area() {
+            System.out.println("Area of Shape");
+        }
+    }
+
     public static void main(String[] args) {
 
 //        SOLUTION TO ERROR
@@ -19,18 +26,12 @@ public class Runtime_Polymorphism {
         shape.area();
     }
 
-    public static class Shape {
-        public void area() {
-            System.out.println("Area of Shape");
-        }
-    }
 
     public static class Circle extends Shape {
         @Override
         public void area() {
             System.out.println("Area of Circle");
         }
-
     }
 
     public static class Square extends Shape {

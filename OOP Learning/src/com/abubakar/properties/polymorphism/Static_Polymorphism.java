@@ -1,8 +1,8 @@
 package com.abubakar.properties.polymorphism;
 
 public class Static_Polymorphism {
-    //    Acheived via Method Over-loading
-//    Same name but different return types, parameters
+    //    Achieved via Method Over-loading
+    //    Same name but different return types, parameters
     public static void main(String[] args) {
         Student Check = new Student();
         Student Awais = new Student("Awais", "Male", 5.5);
