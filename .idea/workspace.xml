@@ -5,71 +5,38 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="90c87d63-65f1-4020-b716-b2c1fc1f7990" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/OOP Learning/OOP.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project - Nursery Managment System/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/object-oriented-programming.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project - Nursery Managment System/Project - Nursery Managment System.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project - Nursery Managment System/src/enums/PlantType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project - Nursery Managment System/src/models/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project - Nursery Managment System/src/models/IndoorPlant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project - Nursery Managment System/src/models/Inventory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project - Nursery Managment System/src/models/NurseryManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project - Nursery Managment System/src/models/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project - Nursery Managment System/src/models/OutdoorPlant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project - Nursery Managment System/src/models/Plant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a/assets/Sequence diagram 1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a/assets/Sequence diagram 2.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/abubakar/abstractDemo/Daughter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/abubakar/abstractDemo/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/abubakar/abstractDemo/Parent.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/abubakar/abstractDemo/Son.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/abubakar/access/A.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/abubakar/access/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/abubakar/access/Object_Demo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/abubakar/access/access-control.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/abubakar/enums/A.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/abubakar/enums/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/abubakar/exceptionHandling/Exception_vs_Error.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/abubakar/exceptionHandling/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/abubakar/exceptionHandling/MyException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/abubakar/generics/CustomArrayList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/abubakar/generics/CustomGenArrayList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/abubakar/generics/Generics.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/abubakar/generics/LambdaExpression.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/abubakar/generics/comparison/HumanHeight.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/abubakar/generics/comparison/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/abubakar/interfaces/Entertainment.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/abubakar/interfaces/EntertainmentClass.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/abubakar/interfaces/Financial.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/abubakar/interfaces/Food.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/abubakar/interfaces/FoodClass.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/abubakar/interfaces/Human.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/abubakar/interfaces/Human2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/abubakar/interfaces/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/abubakar/interfaces/extendDemo/A.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/abubakar/interfaces/extendDemo/B.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/abubakar/interfaces/extendDemo/ExtendDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/abubakar/introduction/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/abubakar/introduction/Part-01.jfif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/abubakar/introduction/part-02.jfif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/abubakar/objectClonning/Bus.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/abubakar/objectClonning/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/abubakar/objectClonning/Shallow_Deep_Copy.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/abubakar/properties/abstraction/Example1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/abubakar/properties/abstraction/Example2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/abubakar/properties/encapsulation/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/abubakar/properties/inheritance/Box.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/abubakar/properties/inheritance/Box_Weight.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/abubakar/properties/inheritance/Lecture-03.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/abubakar/properties/inheritance/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/abubakar/properties/polymorphism/Runtime_Polymorphism.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/abubakar/properties/polymorphism/Static_Polymorphism.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/abubakar/singleton/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/abubakar/singleton/Singleton.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/abubakar/staticExample/InnerClasses.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/abubakar/staticExample/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/abubakar/staticExample/Static_Block.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/abubakar/staticExample/temp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP Learning/OOP.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP Learning/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project - Nursery Managment System/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Project - Nursery Managment System/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -101,9 +68,34 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;S:/object-oriented-programming/Project - Nursery Managment System&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;S:/object-oriented-programming/Project - Nursery Managment System/src/Main.java&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="S:\object-oriented-programming\Project - Nursery Managment System" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="models" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="object-oriented-programming" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="object-oriented-programming" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -114,5 +106,16 @@
       <updated>1732955095730</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Project - Nursery Managment System/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
