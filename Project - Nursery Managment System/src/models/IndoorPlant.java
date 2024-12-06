@@ -1,10 +1,13 @@
 package models;
 
+import enums.PlantCategory;
+import enums.PlantLightRequirements;
+
 public class IndoorPlant extends Plant {
-    private String lightRequirement;
+    private PlantLightRequirements lightRequirement;
     private String temperature;
 
-    public IndoorPlant(String name, float price, String category, String lightRequirement, String temperature, String maintainencelevel) {
+    public IndoorPlant(String name, float price, PlantCategory category, PlantLightRequirements lightRequirement, String temperature) {
         super(name, price, category);
         this.lightRequirement = lightRequirement;
         this.temperature = temperature;
@@ -17,7 +20,7 @@ public class IndoorPlant extends Plant {
     }
 
     // Getters
-    public String getLightRequirement() {
+    public PlantLightRequirements getLightRequirement() {
         return lightRequirement;
     }
 
@@ -26,7 +29,7 @@ public class IndoorPlant extends Plant {
     }
 
     //    Setters
-    public String setLightRequirement(String lightRequirement) {
+    public PlantLightRequirements setLightRequirement(PlantLightRequirements lightRequirement) {
         this.lightRequirement = lightRequirement;
         return lightRequirement;
     }

@@ -1,9 +1,12 @@
 package models;
 
-public class OutdoorPlant extends Plant {
-    private String wateringFrequency;
+import enums.PlantCategory;
+import enums.PlantWateringFrequency;
 
-    public OutdoorPlant(String name, float price, String category, String wateringFrequency) {
+public class OutdoorPlant extends Plant {
+    private PlantWateringFrequency wateringFrequency;
+
+    public OutdoorPlant(String name, float price, PlantCategory category, PlantWateringFrequency wateringFrequency) {
         super(name, price, category);
         this.wateringFrequency = wateringFrequency;
     }
@@ -15,12 +18,12 @@ public class OutdoorPlant extends Plant {
     }
 
     // Getters
-    public String getWateringFrequency() {
+    public PlantWateringFrequency getWateringFrequency() {
         return wateringFrequency;
     }
 
     //    Setters
-    public String setWateringFrequency(String wateringFrequency) {
+    public PlantWateringFrequency setWateringFrequency(PlantWateringFrequency wateringFrequency) {
         this.wateringFrequency = wateringFrequency;
         return wateringFrequency;
     }

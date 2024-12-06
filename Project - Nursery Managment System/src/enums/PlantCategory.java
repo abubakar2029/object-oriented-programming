@@ -1,5 +1,5 @@
 package enums;
 
-public enum PlantType {
+public enum PlantCategory {
     INDOOR, OUTDOOR
 }

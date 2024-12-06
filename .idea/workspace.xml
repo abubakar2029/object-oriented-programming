@@ -5,24 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="90c87d63-65f1-4020-b716-b2c1fc1f7990" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project - Nursery Managment System/Project - Nursery Managment System.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project - Nursery Managment System/src/enums/PlantType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project - Nursery Managment System/src/models/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project - Nursery Managment System/src/models/IndoorPlant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project - Nursery Managment System/src/models/Inventory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project - Nursery Managment System/src/models/NurseryManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project - Nursery Managment System/src/models/Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project - Nursery Managment System/src/models/OutdoorPlant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project - Nursery Managment System/src/models/Plant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/a/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/a/assets/Sequence diagram 1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/a/assets/Sequence diagram 2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project - Nursery Managment System/src/enums/PlantLightRequirements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project - Nursery Managment System/src/enums/PlantWateringFrequency.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project - Nursery Managment System/src/models/ReportGenerator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP Learning/OOP.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP Learning/README.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Project - Nursery Managment System/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Project - Nursery Managment System/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project - Nursery Managment System/assets/UML class.png" beforeDir="false" afterPath="$PROJECT_DIR$/Project - Nursery Managment System/assets/classDiagram.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project - Nursery Managment System/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Project - Nursery Managment System/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project - Nursery Managment System/src/enums/PlantType.java" beforeDir="false" afterPath="$PROJECT_DIR$/Project - Nursery Managment System/src/enums/PlantCategory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project - Nursery Managment System/src/models/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/Project - Nursery Managment System/src/models/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project - Nursery Managment System/src/models/IndoorPlant.java" beforeDir="false" afterPath="$PROJECT_DIR$/Project - Nursery Managment System/src/models/IndoorPlant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project - Nursery Managment System/src/models/Inventory.java" beforeDir="false" afterPath="$PROJECT_DIR$/Project - Nursery Managment System/src/models/Inventory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project - Nursery Managment System/src/models/NurseryManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/Project - Nursery Managment System/src/models/NurseryManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project - Nursery Managment System/src/models/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/Project - Nursery Managment System/src/models/Order.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project - Nursery Managment System/src/models/OutdoorPlant.java" beforeDir="false" afterPath="$PROJECT_DIR$/Project - Nursery Managment System/src/models/OutdoorPlant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project - Nursery Managment System/src/models/Plant.java" beforeDir="false" afterPath="$PROJECT_DIR$/Project - Nursery Managment System/src/models/Plant.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,8 +30,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
-        <option value="Enum" />
         <option value="Class" />
+        <option value="Enum" />
       </list>
     </option>
   </component>
@@ -62,17 +59,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;S:/object-oriented-programming/Project - Nursery Managment System&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;S:/object-oriented-programming/Project - Nursery Managment System/src/Main.java&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "S:/object-oriented-programming/Project - Nursery Managment System",
+    "onboarding.tips.debug.path": "S:/object-oriented-programming/Project - Nursery Managment System/src/Main.java"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="S:\object-oriented-programming\Project - Nursery Managment System" />
@@ -112,8 +110,13 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/Project - Nursery Managment System/src/Main.java</url>
-          <line>11</line>
+          <line>10</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Project - Nursery Managment System/src/Main.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

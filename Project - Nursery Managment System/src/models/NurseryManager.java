@@ -1,17 +1,31 @@
 package models;
 
 public class NurseryManager {
-public String name;
-public String email;
+    private static NurseryManager instance;
 
+    private NurseryManager() {
+    }
 
-private NurseryManager(){
+    public static NurseryManager getInstance() {
+        if (instance == null) {
+            instance = new NurseryManager();
+        }
+        return instance;
+    }
 
-}
+    public void addPlant(Plant plant, Inventory inventory) {
+        inventory.addPlant(plant);
+        System.out.println("Plant added: " + plant.getName());
+    }
 
-static getInstance(){
-    if (){
-}
+    public void removePlant(Plant plant, Inventory inventory) {
+        inventory.removePlant(plant);
+        System.out.println("Plant removed: " + plant.getName());
+    }
 
+    public void updatePlant(Plant oldPlant, Plant newPlant, Inventory inventory) {
+        inventory.updatePlant(oldPlant,newPlant);
+        System.out.println("Plant updated: " + newPlant.getName());
+    }
 }
 
