@@ -70,11 +70,44 @@ generateInventoryReport(): Generate a report of inventory status.
 ## 5.Applying Design Principles
 
 ## Class Diagram 
-![Class Diagram](assets/classDiagram.png)
+![Class Diagram](./Project%20-%20Nursery%20Management%20System/assets/classDiagram.png)
 
 ## Sequence Diagrams
 ### Diagram 1 - Customer interaction
-![Sequence Diagram 1](assets/Sequence%20diagram%202.png)
+![Sequence Diagram 1](./Project%20-%20Nursery%20Management%20System/assets/Sequence%20diagram%202.png)
 
 ### Diagram 2 - Nursery Manager interaction
-![Sequence Diagram 1](assets/Sequence%20diagram%201.png)
+![Sequence Diagram 1](./Project%20-%20Nursery%20Management%20System/assets/Sequence%20diagram%201.png)
+
+## How to Run the Project
+
+1. **Navigate to the source directory:**
+   ```
+   cd "Project - Nursery Management System/src"
+   ```
+
+2. **Compile the Java files:**
+   ```
+   javac Main.java models/*.java enums/*.java
+   ```
+
+3. **Run the application:**
+   ```
+   java Main
+   ```
+
+## User Interface Screenshot
+
+![User Interface](./Project%20-%20Nursery%20Management%20System/assets/interface.png)
+
+## OOP Learning Resources
+
+This repository also includes my OOP learning modules:
+
+- [Introduction](OOP%20Learning/src/Main.java) - Basic OOP principles
+- [Properties](OOP%20Learning/src/com/abubakar/properties/) - Four pillars of OOP
+- [Advanced Topics](OOP%20Learning/src/com/abubakar/) - Generics, exceptions, patterns
+
+<img src="OOP%20Learning/src/com/abubakar/introduction/Part-01.jfif"  alt="OOP Fundamentals"> <img src="OOP%20Learning/src/com/abubakar/introduction/part-02.jfif"  alt="OOP Advanced Concepts">
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![OOP](https://img.shields.io/badge/OOP-Programming-blue?style=for-the-badge) ![Enterprise](https://img.shields.io/badge/Enterprise-Application-red?style=for-the-badge)
