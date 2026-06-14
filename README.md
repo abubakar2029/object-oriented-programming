@@ -1,7 +1,5 @@
 # Nursery Management System
 
-A Java console application for managing plant inventory, customer orders, and nursery reports — built from scratch as a hands-on OOP learning project.
-
 ## About This Project
 
 I designed and built this system myself over several days. I started by understanding what the nursery needed to do, which entities belonged in the model, and how they related to each other. I iterated on the design over time — refining classes, relationships, and diagrams as my understanding of object-oriented programming grew. This was a passion project to learn OOP properly, not a tutorial follow-along.
